@@ -6,6 +6,7 @@ Represents a shooting game.
 
 ## Prerequisites
 
++ JDK
 + JRE
 
 ## Usage
